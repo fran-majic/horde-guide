@@ -1,0 +1,35 @@
+.main-div {
+    font-size: 15px;
+    margin-top: 20px;
+    padding-left: 220px;   
+}
+
+.div_1 {
+    display:flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 400px;
+    padding: 20px 20px 40px;
+    display:block;
+    margin:0 auto;
+}
+
+
+.image-guides {
+    position:sticky !important;
+    top: 9px !important;
+}
+
+.img_1 {
+    width: 400px;
+    position: sticky !important;
+    top: 300px !important;
+    padding-left:100px;
+    padding-right:30px;
+}
+
+
+
+
